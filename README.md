@@ -54,6 +54,7 @@ Build project:
 npm run build
 ```
 
-## Roadmap
+## Todo
 
+- Ensure babel covers IE 11
 - Provide testing workflow
