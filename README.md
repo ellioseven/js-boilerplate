@@ -1,4 +1,4 @@
-# Application Boilerplate
+# js-boilerplate
 
 A starting point for modern JavaScript development.
 
