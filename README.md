@@ -9,6 +9,7 @@ A starting point for modern JavaScript development.
 - Adhere to ES specifications
 - Minimal third party libraries
 - Container based development environment
+- Simple and effective testing
 
 ## Ecosystem
 
@@ -17,6 +18,7 @@ A starting point for modern JavaScript development.
 - [docker](https://www.docker.com): Virtualisation
 - [eslint](https://eslint.org): Code linting
 - [editorconfig](http://editorconfig.org): Code formatting
+- [circleci](https://circleci.com): Continuous integration
 
 ### Polyfills
 
