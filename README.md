@@ -13,7 +13,7 @@ A starting point for modern JavaScript development.
 
 ## Ecosystem
 
-- [yarn](https://yarnpkg.com/en/): Package management
+- [yarn](https://yarnpkg.com): Package management
 - [babel](https://babeljs.io): Transpiler
 - [webpack](https://webpack.js.org): Build tool
 - [docker](https://www.docker.com): Virtualisation
