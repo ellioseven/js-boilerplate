@@ -11,14 +11,20 @@ A starting point for modern JavaScript development.
 
 ## Ecosystem
 
-- Babel: Transpiler
-- Webpack: Build tool
-- Docker: Virtualisation
+- [babel](https://babeljs.io): Transpiler
+- [webpack](https://webpack.js.org): Build tool
+- [docker](https://www.docker.com): Virtualisation
+- [eslint](https://eslint.org): Code linting
+
+### Polyfills
+
+- [babel](https://babeljs.io/docs/usage/polyfill)
+- [fetch](https://github.com/github/fetch)
 
 ## Requirements
 
-- docker
-- docker-compose
+- [docker](https://docs.docker.com/install)
+- [docker-compose](https://docs.docker.com/compose/install)
 
 ## Instructions
 
