@@ -21,8 +21,10 @@
     "build": "webpack"
   },
   "browserslist": [
+    "firefox esr",
     "last 2 versions",
     "not ie <= 10",
-    "not ie_mob <= 10"
+    "not ie_mob <= 10",
+    "not dead"
   ]
 }
