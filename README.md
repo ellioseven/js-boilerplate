@@ -56,6 +56,12 @@ Build project:
 npm run build
 ```
 
+Run tests:
+
+```
+yarn run test
+```
+
 ## Todo
 
 - Ensure babel covers IE 11
