@@ -4,7 +4,7 @@ A starting point for modern JavaScript development.
 
 ## Goals
 
-- Support modern browsers
+- Support modern browsers (IE 11)
 - Encourage consistency & best practices
 - Adhere to ES specifications
 - Minimal third party libraries
