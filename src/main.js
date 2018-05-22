@@ -1,10 +1,7 @@
+// Babel polyfill.
+// https://babeljs.io/docs/usage/polyfill
 import 'babel-polyfill'
-import 'whatwg-fetch'
 
-fetch('https://jsonplaceholder.typicode.com/posts/1')
-  .then(response => {
-    return response.json()
-  })
-  .then(myJson => {
-    console.log(myJson)
-  })
+// Fetch polyfill.
+// https://github.com/github/fetch
+import 'whatwg-fetch'
