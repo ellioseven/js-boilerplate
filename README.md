@@ -6,7 +6,8 @@ A starting point for modern JavaScript development.
 
 - Support modern browsers
 - Encourage consistency & best practices
-- Minimal tooling
+- Adhere to ES specifications
+- Minimal third party libraries
 - Container based development environment
 
 ## Ecosystem
