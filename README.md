@@ -53,7 +53,7 @@ yarn install
 Build project:
 
 ```
-npm run build
+yarn run build
 ```
 
 Run tests:
