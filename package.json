@@ -18,7 +18,8 @@
   },
   "scripts": {
     "prebuild": "rm -rf build",
-    "build": "webpack"
+    "build": "webpack",
+    "test": "node tests/main.js"
   },
   "browserslist": [
     "firefox esr",
