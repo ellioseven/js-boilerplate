@@ -16,6 +16,7 @@ A starting point for modern JavaScript development.
 - [webpack](https://webpack.js.org): Build tool
 - [docker](https://www.docker.com): Virtualisation
 - [eslint](https://eslint.org): Code linting
+- [editorconfig](http://editorconfig.org): Code formatting
 
 ### Polyfills
 
