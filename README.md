@@ -29,6 +29,12 @@ A starting point for modern JavaScript development.
 
 ## Instructions
 
+Configure:
+
+```
+cp .env.example .env && edit .env
+```
+
 Enter development environment:
 
 ```

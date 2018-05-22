@@ -4,3 +4,5 @@ services:
     image: "ellioseven/node:9"
     volumes:
       - ./:/srv
+    env_file:
+      - .env
